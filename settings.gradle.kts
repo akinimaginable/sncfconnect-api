@@ -1,1 +1,5 @@
-rootProject.name = "sncf_connect-api"
+rootProject.name = "sncfconnect-api"
+
+include("application")
+include("database")
+include("shared")
